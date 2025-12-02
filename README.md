@@ -36,7 +36,7 @@
 
 
 ## Architecture & Tech Stack
-
+![Architecture_diagram](arch.jpg).
 ### Backend Stack
 - Runtime: Node.js 20
 - Framework: Express 5
