@@ -67,8 +67,8 @@
 
 ###  Clone the repository
 ``` 
-git clone https://github.com/your-username/teamsync.git
-cd teamsync
+git clone https://github.com/your-username/TeamSyncc.git
+cd TeamSyncc
 ```
 
 ### ⚙️ Step 2: Backend Setup
