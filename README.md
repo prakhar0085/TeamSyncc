@@ -1,5 +1,6 @@
 
 # TeamSyncc - Modern Team Project Management Platform
+🌐 **Live Demo:** [https://TeamSync.com ](https://team-syncc-nine.vercel.app/)
 #### *TeamSync is a SaaS platform for team project management, built with modern web technologies.  It provides organizations with powerful tools for workspace management, project tracking, task collaboration, and team coordination with event-driven notifications and role-based access control.*
 
 ## 🎨 Features
